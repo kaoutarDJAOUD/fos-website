@@ -1,7 +1,7 @@
 <template>
-  <div class="container pt-5 flex justify-center">
+  <div class="px-[5rem] pt-5 flex justify-center">
     <div
-      class="block max-w-[70%] p-6 bg-white border rounded-lg shadow"
+      class="block md:max-w-[70%] p-6 bg-white border rounded-lg shadow"
     >
       <h2 class="title text-center pb-5">Le programme</h2>
       <div class="description-div">
