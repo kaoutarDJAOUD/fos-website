@@ -6,6 +6,9 @@
     <section id="Program" class="">
       <programm-section></programm-section>
     </section>
+    <section id="ProgramContent" class="">
+      <programm-content-section></programm-content-section>
+    </section>
   </div>
 </template>
 
