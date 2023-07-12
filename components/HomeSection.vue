@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container px-3 py-5 mx-auto flex flex-wrap flex-col md:flex-row items-center h-full"
+    class="container px-3 py-[7rem] md:py-5 mx-auto flex flex-wrap flex-col md:flex-row items-center h-full"
   >
     <div
       class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left text-white"
@@ -18,7 +18,7 @@
       </p>
     </div>
     <div
-      class="w-full md:w-3/5 py-6 text-center md:grid md:grid-cols-2 md:gap-3 flex justify-end"
+      class="w-full md:w-3/5 py-6 text-center md:grid md:grid-cols-2 md:gap-3 flex justify-center md:justify-end"
     >
       <img
         class="h-auto max-w-[15rem] lg:max-w-xs drop-shadow-xl"
