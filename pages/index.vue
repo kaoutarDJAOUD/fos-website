@@ -14,13 +14,14 @@
 
 <style>
 #Home {
-  clip-path: polygon(100% 0, 100% 85%, 50% 100%, 0 100%, 0 0);
+  clip-path: polygon(85% 0, 100% 0, 100% 85%, 15% 100%, 0 100%, 0 10%);
   background-color: rgba(4, 99, 128);
 }
 .title {
   font-size: 2rem;
   color: #046380;
   font-family: "Montserrat";
-  text-decoration: underline;
+  font-weight: bold;
 }
+
 </style>
