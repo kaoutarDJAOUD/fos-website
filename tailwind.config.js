@@ -5,4 +5,9 @@ module.exports = {
   plugins: [
     require('flowbite')
   ],
+  theme: {
+    container: {
+      padding: '5rem',
+    },
+  },
 }
